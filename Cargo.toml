@@ -1,0 +1,10 @@
+[package]
+name = "si_practical_numbers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "si_practical_numbers"
+path = "main.rs"
